@@ -1,5 +1,5 @@
 # Brain-Tumor-Classification
-A project for Artificial Intelligence subject (4th year) ✨
+## A project for Artificial Intelligence subject (4th year) ✨
 
 When abnormal cells start to develop within the brain, a brain tumour happens. Brain tumors may develop from cancer that started in another part of the body or it can form inside the brain itself. In addition, genetic factors, exposure to certain chemicals or radiation, and other environmental factors may contribute to the development of brain tumors. It is important to recognise signs including ongoing headaches, seizures, impaired vision or hearing, and neurological abnormalities and to get medical help if any of these arise. People with brain tumours can greatly benefit from early detection and treatment. 
 
